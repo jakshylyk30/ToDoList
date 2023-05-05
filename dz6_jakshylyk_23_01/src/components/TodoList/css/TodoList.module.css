@@ -1,0 +1,20 @@
+
+
+.box {
+    width: max-content;
+    height: max-content;
+    margin: 50px auto 0;
+}
+
+
+.ul {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+
+
+.li {
+    display: flex;
+    column-gap: 20px;
+}
